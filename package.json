@@ -1,6 +1,6 @@
 {
-  "name": "pdfjs-dist",
-  "version": "3.2.146",
+  "name": "pdfjs-dist-tranzvision",
+  "version": "1.1.0",
   "main": "build/pdf.js",
   "types": "types/src/pdf.d.ts",
   "description": "Generic build of Mozilla's PDF.js library.",
@@ -9,7 +9,7 @@
     "pdf",
     "pdf.js"
   ],
-  "homepage": "http://mozilla.github.io/pdf.js/",
+  "homepage": "https://github.com/opszhanglang/pdfjs-dist-tranzvision.git",
   "bugs": "https://github.com/mozilla/pdf.js/issues",
   "license": "Apache-2.0",
   "optionalDependencies": {
@@ -29,6 +29,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/pdfjs-dist"
+    "url": "https://github.com/opszhanglang/pdfjs-dist-tranzvision"
   }
 }
