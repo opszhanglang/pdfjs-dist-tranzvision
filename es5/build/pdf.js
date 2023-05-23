@@ -12360,7 +12360,7 @@ function getDocument(src) {
 
   // 解决文字缺少问题
   params.cMapPacked = true
-  params.cMapUrl = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@2.5.207/cmaps/'
+  params.cMapUrl = 'https://unpkg.com/pdfjs-dist@2.5.207/cmaps/'
 
   if (!Number.isInteger(params.maxImageSize)) {
     params.maxImageSize = -1;
